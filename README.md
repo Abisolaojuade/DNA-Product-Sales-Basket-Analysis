@@ -70,7 +70,7 @@ Performed in Power BI using Power Query:
 
 ---
 
-## Data Exploration & Insights
+## Data Exploration and Insights
 ### 1. What is the best year for sales? How much was earned that year?
 **INSIGHTS:** The analysis of total sales over time revealed a significant insight into the company's yearly performance:
 - Total Sales over the entire period amounted to **$34.47 million**.

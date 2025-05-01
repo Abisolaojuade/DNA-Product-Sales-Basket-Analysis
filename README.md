@@ -14,7 +14,7 @@
 - [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
 
-## 🧬 Introduction
+## Introduction
 
 This project involves analyzing product sales data to uncover business insights, understand customer buying behavior, and forecast future performance. 
 Using a CSV file containing detailed sales records—including customer information, order ID, order date, purchase address, product names, quantity ordered, 
@@ -29,7 +29,7 @@ The result is an interactive Power BI dashboard that enables data-driven decisio
 
 ---
 
-## 🗃️ Dataset Overview
+## Dataset Overview
 
 The dataset includes the following columns:
 
@@ -42,7 +42,7 @@ The dataset includes the following columns:
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 The objective of this project is to analyze product sales data using Power BI in order to extract actionable insights that can drive strategic business decisions.
 Key Business Questions to Solve:
 1. What is the best year for sales? How much was earned that year?  
@@ -58,7 +58,7 @@ Key Business Questions to Solve:
 
 ---
 
-## 🧹 Data Cleaning and transformation
+## Data Cleaning and transformation
 
 Performed in Power BI using Power Query:
 
@@ -70,7 +70,7 @@ Performed in Power BI using Power Query:
 
 ---
 
-## 📊 Data Exploration & Insights
+## Data Exploration & Insights
 ### 1. What is the best year for sales? How much was earned that year?
 **INSIGHTS:** The analysis of total sales over time revealed a significant insight into the company's yearly performance:
 - Total Sales over the entire period amounted to **$34.47 million**.
@@ -152,14 +152,14 @@ This insight highlights the value of tracking product-level performance to under
 
 ---
 
-## 📉 Dashboard
+## Dashboard
 The image below is the Dashboard for my analysis
 
 ![DNA Product sales Dashboard_page-0001](https://github.com/user-attachments/assets/f1ad5cac-a3a9-4e04-ab70-7050a52eb5b2)
 
 
 ---
-## ✅ Recommendation
+## Recommendation
 
 Based on the data exploration and sales insights, the following recommendations are proposed to help the business optimize performance, boost revenue, and improve strategic decision-making:
 
@@ -189,7 +189,7 @@ Based on the data exploration and sales insights, the following recommendations 
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The DNA Product Sales Analysis project successfully leveraged Power BI to uncover meaningful insights from sales transaction data, enabling data-driven decision-making.
 Through detailed trend analysis, basket analysis, and time-based segmentation, the report identified key patterns in customer behavior, product performance, and regional sales distribution.
 

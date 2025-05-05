@@ -11,8 +11,8 @@
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Dashboard](#Dashboard)
-- [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
+- [Recommendation](#Recommendation)
 
 ## Introduction
 
@@ -157,6 +157,21 @@ The image below is the Dashboard for my analysis
 
 ![DNA Product sales Dashboard_page-0001](https://github.com/user-attachments/assets/f1ad5cac-a3a9-4e04-ab70-7050a52eb5b2)
 
+---
+
+## Conclusion
+The DNA Product Sales Analysis project successfully leveraged Power BI to uncover meaningful insights from sales transaction data, enabling data-driven decision-making.
+Through detailed trend analysis, basket analysis, and time-based segmentation, the report identified key patterns in customer behavior, product performance, and regional sales distribution.
+
+The analysis highlighted significant business opportunities:
+- December is the most profitable month, emphasizing the importance of seasonal sales strategy.
+- Tuesday evenings present the best window for customer engagement.
+- San Francisco stands out as a top-performing city, offering a strong regional growth opportunity.
+- Frequently bought-together items present clear opportunities for cross-selling and bundling strategies.
+- The MacBook Pro Laptop leads in sales, underscoring the value of premium product offerings.
+
+By transforming raw data into a dynamic Power BI dashboard, the project not only provided answers to critical business questions but also delivered a visual tool for continuous monitoring and strategic planning. 
+This dashboard can be used by stakeholders across departments—from marketing to operations—to guide smarter decisions, optimize campaigns, and drive sustained revenue growth.
 
 ---
 ## Recommendation
@@ -187,18 +202,3 @@ Based on the data exploration and sales insights, the following recommendations 
 - Address data limitations—especially the sharp decline in 2020 sales—by **verifying dataset completeness** and **ensuring consistent data collection moving forward**.
 - Consider **integrating other data sources** (e.g., marketing, customer demographics, or supply chain data) for a more holistic view of business performance.
 
----
-
-## Conclusion
-The DNA Product Sales Analysis project successfully leveraged Power BI to uncover meaningful insights from sales transaction data, enabling data-driven decision-making.
-Through detailed trend analysis, basket analysis, and time-based segmentation, the report identified key patterns in customer behavior, product performance, and regional sales distribution.
-
-The analysis highlighted significant business opportunities:
-- December is the most profitable month, emphasizing the importance of seasonal sales strategy.
-- Tuesday evenings present the best window for customer engagement.
-- San Francisco stands out as a top-performing city, offering a strong regional growth opportunity.
-- Frequently bought-together items present clear opportunities for cross-selling and bundling strategies.
-- The MacBook Pro Laptop leads in sales, underscoring the value of premium product offerings.
-
-By transforming raw data into a dynamic Power BI dashboard, the project not only provided answers to critical business questions but also delivered a visual tool for continuous monitoring and strategic planning. 
-This dashboard can be used by stakeholders across departments—from marketing to operations—to guide smarter decisions, optimize campaigns, and drive sustained revenue growth.
